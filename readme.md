@@ -1,0 +1,4 @@
+-"sc.py" deki pyhton fileların dosya konumlarını değiştir (line:35,38,41,44,47)
+- "genes-to-disease-toAll.py" line 24 (input file dosya lokasyonunu düzenle)
+-"sc.py" yi runla (hangi file ne işe yarar burada comment linelar ile açıklanmıştır)
+- "lastVersion.json" son outputtur 
